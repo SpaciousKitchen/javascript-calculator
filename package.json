@@ -1,0 +1,22 @@
+{
+  "name": "javascript-calcultator",
+  "version": "1.0.0",
+  "description": "- data-html말고 innerText만으로 충분히 해결할 수 있다. - 문자열로 관리하기 024 014과 같은 예외처리에 부족하다. -ㅌㅈ(숫자가 앞에 올 경우 에 대한 예외 처리) - 에러처리를 alert로 모두 걸러내기라도 하자!! - 항상 숫자는 0의 에러를 조심해라",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaciousKitchen/javascript-calculator.git"
+  },
+  "author": "song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpaciousKitchen/javascript-calculator/issues"
+  },
+  "homepage": "https://github.com/SpaciousKitchen/javascript-calculator#readme",
+  "dependencies": {
+    "cypress": "7.3.0"
+  }
+}
